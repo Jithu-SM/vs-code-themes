@@ -1,16 +1,39 @@
-# xigdark README
+# xigdark
 
-## Working with Markdown
+A dark theme for late-night developers.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Clean, dark color scheme optimized for extended coding sessions
+- High contrast black background for reduced eye strain
+- Carefully selected syntax highlighting colors for major programming languages
+- Supports all VS Code editor components (UI, syntax, terminal)
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+2. Search for **xigdark**
+3. Click **Install**
+4. Click **Set Color Theme** or select it manually:
+   - Go to **File** → **Preferences** → **Color Theme**
+   - Select **XIGIE Dark**
 
-**Enjoy!**
+## Usage
+
+Once installed, the theme is automatically available in your VS Code Color Theme picker. Simply switch to it whenever you need a dark, comfortable coding environment for late-night development sessions.
+
+## Customization
+
+You can customize the theme colors by editing `themes/XIGIE Dark-color-theme.json`. After making changes, reload VS Code to see the updates.
+
+## License
+
+MIT License
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
+---
+
+**Enjoy your late-night coding! 🌙**
