@@ -1,0 +1,21 @@
+{
+  "name": "xigdark",
+  "displayName": "xigdark",
+  "description": "A dark theme for late-night developers (for me)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XIGIE Dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/XIGIE Dark-color-theme.json"
+      }
+    ]
+  }
+}
