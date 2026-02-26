@@ -1,8 +1,8 @@
 {
 	"name": "XIGIE Dark",
 	"colors": {
-		"editor.background": "#000000",
-		"editor.foreground": "#ffffff9c"
+		"editor.background": "#2c2c2c54",
+		"editor.foreground": "#eae8e8"
 	},
 	"tokenColors": [
 		{
@@ -101,7 +101,7 @@
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#6796e6"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -140,7 +140,7 @@
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"foreground": "#808080"
+				"foreground": "#d8d0d0"
 			}
 		},
 		{
@@ -182,13 +182,13 @@
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#1f5c8e"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#ff956b"
 			}
 		},
 		{
@@ -200,13 +200,13 @@
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#e9b19c"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#d16969"
+				"foreground": "#f18a8a"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"punctuation.definition.template-expression.end.js"
 			],
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#1e76be"
 			}
 		},
 		{
@@ -230,13 +230,13 @@
 				"variable.other.less"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#f5ecec"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#6c98bc"
 			}
 		},
 		{
@@ -248,7 +248,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#8fbef3"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#ffff00"
 			}
 		},
 		{
@@ -342,7 +342,7 @@
 			"name": "Control flow keywords",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#d894ff"
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#adff09"
 			}
 		},
 		{
@@ -363,7 +363,7 @@
 				"meta.object-literal.key entity.name.function"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#e0e0e0"
 			}
 		},
 		{
